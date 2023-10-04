@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ojalgo1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ojalgo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
